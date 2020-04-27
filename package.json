@@ -1,0 +1,61 @@
+{
+    "name": "gunter",
+    "description": "A clean, minimal theme",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=3.0.0",
+        "ghost-api": "v3"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Ben Brown",
+        "email": "ben@bobthemac.com",
+        "url": "https://bobthemac.com"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Magazine"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "ghost-theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bobthemac/Gunter.git"
+    },
+    "bugs": "https://github.com/bobthemac/Gunter/issues",
+    "contributors": 
+"https://github.com/bobthemac/Gunter/graphs/contributors",
+    "config": {
+        "posts_per_page": 12,
+        "image_sizes": {
+            "xxs": {
+                "width": 30
+            },
+            "xs": {
+                "width": 100
+            },
+            "s": {
+                "width": 300
+            },
+            "m": {
+                "width": 600
+            },
+            "l": {
+                "width": 1000
+            },
+            "xl": {
+                "width": 2000
+            }
+        }
+    }
+}
