@@ -1,7 +1,7 @@
 {
-    "name": "gunter",
+    "name": "gunter-origin",
     "description": "A clean, minimal theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
@@ -12,7 +12,8 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Germán Encinas ",
+        "name": "ben brown (original by germán encinas)",
+        "email": "ben@bobthemac.com"
     },
     "gpm": {
         "type": "theme",
