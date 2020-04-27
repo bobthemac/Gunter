@@ -12,9 +12,7 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ben Brown",
-        "email": "ben@bobthemac.com",
-        "url": "https://bobthemac.com"
+        "name": "Germán Encinas ",
     },
     "gpm": {
         "type": "theme",
