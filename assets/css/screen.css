@@ -162,11 +162,11 @@ html {
   transition: font-size 0.25s ease-in; }
 
 body {
-  font-family: 'Shadows Into Light', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #3F413A; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans';
+  font-family: 'Shadows Into Light';
   text-rendering: optimizeLegibility;
   color: #000;
   font-weight: 900; }
@@ -503,8 +503,7 @@ img {
 .main-header .title {
   display: inline-block;
   position: relative;
-  padding-bottom: 8px;
-  border-bottom: 3.5px solid #000; }
+  padding-bottom: 8px; }
 
 .main-header .title h1 {
   color: #000;
