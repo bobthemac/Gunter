@@ -7,13 +7,14 @@
 	<figure class="logo">
 		<a href="{{@site.url}}"><img class="img-logo" src="{{@site.logo}}" alt="Logo Blog"></a>
 	</figure>
-	{{/if}}
+	{{else}}
 	<div class="title">
 		<a href="{{@site.url}}">
 			<h1>{{@site.title}}</h1>
 		</a>
 		<p>{{@site.description}}</p>
 	</div>
+	{{/if}}
 </header>
 
 <section class="posts">
