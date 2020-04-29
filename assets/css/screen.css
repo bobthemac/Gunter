@@ -168,7 +168,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Shadows Into Light';
   text-rendering: optimizeLegibility;
-  color: #000;
+  color: #9EE6FF;
   font-weight: 900; }
 
 h1 {
@@ -536,7 +536,7 @@ img {
   margin: 4px 0 15px 0;
   font-size: 2.1rem;
   font-weight: 900;
-  color: #000; }
+  color: #9EE6FF; }
 
 .posts .post .inner .header-post .title-post a {
   color: #9EE6FF;
@@ -723,7 +723,7 @@ img {
   background: #FFEBEF; }
 
 .blog-footer p {
-  color: #FFF; }
+  color: #FF6BFE; }
 
 .blog-footer p a {
   color: #FF9EB5;
