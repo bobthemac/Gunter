@@ -1,7 +1,7 @@
 {
     "name": "gunter-origin",
     "description": "A clean, minimal theme",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"

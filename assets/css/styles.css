@@ -5,7 +5,6 @@
          url('../fonts/opensans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
@@ -14,7 +13,6 @@
          url('../fonts/shadowsintolight-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 /* CSS from: https://ghost.org/docs/api/v2/handlebars-themes/editor/ */
