@@ -162,11 +162,11 @@ html {
   transition: font-size 0.25s ease-in; }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'open_sansregular', sans-serif;
   color: #3F413A; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Shadows Into Light';
+  font-family: 'shadows_into_lightregular';
   text-rendering: optimizeLegibility;
   color: #9EE6FF;
   font-weight: 900; }
